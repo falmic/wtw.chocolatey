@@ -1,0 +1,1 @@
+Install-ChocolateyPackage 'wtw' 'msi' '/quiet' 'http://minefield.k2t.eu/wtf/0.9/nightly-x86-20140210-1.msi' 'http://minefield.k2t.eu/wtf/0.9/nightly-x64-20140210-1.msi'
