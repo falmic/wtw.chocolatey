@@ -6,14 +6,14 @@
     <version>0.9</version>
     <authors>Kaworu</authors>
     <owners>falmic</owners>
-    <summary>__NAME__</summary>
-    <description>__NAME__</description>
+    <summary></summary>
+    <description>WTW is a multi-protocol instant messaging client for Windows.</description>
     <projectUrl>http://wtw.im</projectUrl>
     <tags>wtw im messenger chat facebook gadu-gadu skype jabber tlen</tags>
     <copyright></copyright>
-    <licenseUrl>__REPLACE__</licenseUrl>
+    <licenseUrl></licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <!--<iconUrl>https://raw.github.com/__CHOCO_PKG_OWNER_REPO__/master/__NAME__/__NAME__.png</iconUrl>-->
+    <iconUrl>https://raw2.github.com/falmic/wtw.chocolatey/master/wtw.png</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
