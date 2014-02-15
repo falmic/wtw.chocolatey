@@ -11,7 +11,7 @@
     <projectUrl>http://wtw.im</projectUrl>
     <tags>wtw im messenger chat facebook gadu-gadu skype jabber tlen</tags>
     <copyright></copyright>
-    <licenseUrl></licenseUrl>
+    <licenseUrl>https://raw2.github.com/falmic/wtw.chocolatey/master/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://raw2.github.com/falmic/wtw.chocolatey/master/wtw.png</iconUrl>
     <!--<dependencies>
